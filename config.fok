@@ -1,9 +1,0 @@
-abc = "hello";
-last_id=4;
-lists = [
-  ("hello there", "general kenobi"),
-  ("tuples!!!", "lists toO!!"),
-  ("why is this so", "cool? nuh uh it doesn't work the moment you add a semicolor at the end of the file (or even in a damned string lmao)"),
-  ("crazy", "I was crazy once", 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27)
-];
-tuple = (1,2,3,"hello",4,"team fortress")
